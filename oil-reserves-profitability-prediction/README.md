@@ -18,4 +18,5 @@
 * Risk of losses for each region
 
 **Objective** 
+
 Recommend a region for oil development based on oil sample data from three regions. Build a model to predict the region with the highest profit margin, and analyze risks.
