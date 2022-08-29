@@ -18,4 +18,4 @@
 6. Interpretation of results and conclusion
 
 ## Objective
-Predict temperature while processing steel to reduce energy consumption and optimize production costs
+Used a gradient boosting algorithm to predict temperatures during steel processing, improving energy efficiency and lowering overhead. Cleaned and synthesized data from multiple sensors to create a usable dataset. Tested multiple models for performance and MAE.
