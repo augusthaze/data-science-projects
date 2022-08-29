@@ -16,4 +16,4 @@
 
 ## Objective
 
-Build a machine learning model for Zyfra to optimize production of gold and eliminate unprofitable parameters. Final model will predict the amount of gold recovered from gold ore.
+Built a machine learning model for Zyfra to predict the amount of gold recovered from gold ore. Analyzed concentrations of metals and various other substances at different stages of purification, and feed particle sizes in training and test sets. Wrote a function to calculate the sMAPE for two recovery targets. Evaluated several models using cross validation.
